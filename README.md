@@ -38,3 +38,19 @@ The dataset includes:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/student-performance-analysis.git
+
+
+## File Structure
+   - **Python_Project1.ipynb**: The Jupyter Notebook with the analysis and visualizations.
+   - **Expanded_data_with_more_features.csv**: The dataset used in the analysis.
+   - **README.md**: Documentation for the repository.
+
+## Insights
+   - **High Correlation Features**: Found features strongly correlated with academic success.
+   - **Study Patterns**: Analyzed trends such as the impact of study hours on scores.
+   - **Demographic Analysis**: Explored differences in performance across demographic groups.
+
+## Future Work
+   - Expand the analysis with machine learning models to predict scores.
+   - Add interactive visualizations using tools like Plotly.
+
